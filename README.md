@@ -11,6 +11,8 @@ Extras added include:
 - making it fully responsive
 - an extra section on interesting facts
 
-Here is the finished product:
+Here's a screenshot of the finished product:
 
 ![Sarnia homepage](https://github.com/JoleneKearse/hometown_sarnia/blob/main/screenshot.gif)
+
+Or go visit it in person at [Github pages](https://jolenekearse.github.io/hometown_sarnia/)
