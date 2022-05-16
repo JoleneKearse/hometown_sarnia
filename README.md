@@ -3,7 +3,7 @@ A brief intro to my hometown of Sarnia, Ontario, Canada based on Scrimba's Front
 
 The project requirements were using classes, flexbox, and a background image. It was to be modelled after this example:
 
-![Hometown homepage example]()
+![Hometown homepage example](https://github.com/JoleneKearse/hometown_sarnia/blob/main/example.png)
 
 Extras added include:
 - a WEBP animated hero image blending 2 photos
@@ -13,4 +13,4 @@ Extras added include:
 
 Here is the finished product:
 
-![Sarnia homepage]()
+![Sarnia homepage](https://github.com/JoleneKearse/hometown_sarnia/blob/main/screenshot.gif)
